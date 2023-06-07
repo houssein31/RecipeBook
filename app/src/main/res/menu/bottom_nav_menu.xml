@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_recipe"
+        android:title="Recipe"
+        android:icon="@drawable/ic_recipe" />
+
+    <item
+        android:id="@+id/navigation_category"
+        android:title="Category"
+        android:icon="@drawable/ic_category" />
+
+    <item
+        android:id="@+id/navigation_account"
+        android:title="Account"
+        android:icon="@drawable/ic_account" />
+</menu>

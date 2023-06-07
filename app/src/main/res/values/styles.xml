@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyTextInputStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <!-- Customize the box stroke color -->
+        <item name="boxStrokeColor">@color/purple_700</item>
+        <!-- Customize the text color -->
+        <item name="android:textColor">@color/purple_700</item>
+        <!-- Customize other attributes as per your requirements -->
+    </style>
+</resources>
